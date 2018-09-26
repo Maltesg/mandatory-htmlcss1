@@ -132,4 +132,13 @@ form {
   display: flex;
   justify-content: center;
   margin-top: 10%;
+
+}
+fieldset {
+  border: 1px solid grey;
+  box-sizing: border-box;
+}
+label {
+  padding: 12px 12px 12px 0;
+  display: inline-block;
 }
